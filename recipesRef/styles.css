@@ -12,3 +12,10 @@ ul{
     list-style-position: inside;
     text-align: center;
 }
+a{
+    color: darkgray;
+}
+.title{
+    background-color: rgb(10, 66, 10);
+    margin: 0;
+}
